@@ -1,0 +1,18 @@
+{
+    "name": "root/yomiage",
+    "autoload": {
+        "psr-4": {
+            "Root\\Yomiage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "meeeteeeooo",
+            "email": "tubuan16539@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^7.3",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
